@@ -1,4 +1,4 @@
-added to top of the file.
+added to top of the file
 
 this is my first file
 it's a great file!
@@ -6,4 +6,4 @@ it's a great file!
 added some lines to the bottom of the file
 here is some stuff
 
-added more stuff to bottom.
+added more stuff to bottom..
