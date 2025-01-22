@@ -3,3 +3,4 @@ more stuff up here
 
 this is another file.
 it's also a wonderful file
+new text
